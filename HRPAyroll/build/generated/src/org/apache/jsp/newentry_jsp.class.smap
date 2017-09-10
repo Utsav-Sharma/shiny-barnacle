@@ -1,0 +1,10 @@
+SMAP
+newentry_jsp.java
+JSP
+*S JSP
+*F
++ 0 newentry.jsp
+newentry.jsp
+*L
+5,66:44
+*E
